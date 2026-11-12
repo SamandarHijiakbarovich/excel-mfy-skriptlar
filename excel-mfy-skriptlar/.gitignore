@@ -1,0 +1,8 @@
+*.xlsx
+*.xls
+*.xlsm
+*.csv
+geocache.json
+__pycache__/
+MFY_kesimida/
+Tuman_MFY_kesimida/
