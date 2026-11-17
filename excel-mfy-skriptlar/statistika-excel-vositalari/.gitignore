@@ -1,0 +1,23 @@
+# Excel fayllar (maxfiy ma'lumotlar GitHubga chiqmasin)
+*.xlsx
+*.xlsm
+*.xls
+~$*
+
+# Dastur chiqargan papkalar
+*_tumanlar/
+*_tuman_mahalla/
+YaTT/
+Yuridik/
+Tumanlar_svodka/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
